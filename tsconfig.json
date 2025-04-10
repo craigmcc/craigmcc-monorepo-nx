@@ -11,6 +11,12 @@
     },
     {
       "path": "./packages"
+    },
+    {
+      "path": "./apps/second-next-app-e2e"
+    },
+    {
+      "path": "./apps/second-next-app"
     }
   ]
 }
