@@ -1,5 +1,5 @@
 {
-  "name": "@craigmcc/shared-util",
+  "name": "@craigmcc/second-lib",
   "version": "0.0.1",
   "type": "module",
   "main": "./dist/index.js",
@@ -19,7 +19,7 @@
     "!**/*.tsbuildinfo"
   ],
   "nx": {
-    "name": "shared-util"
+    "name": "second-lib"
   },
   "dependencies": {
     "tslib": "^2.3.0"

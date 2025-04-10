@@ -17,6 +17,9 @@
     },
     {
       "path": "./apps/second-next-app"
+    },
+    {
+      "path": "./packages"
     }
   ]
 }
